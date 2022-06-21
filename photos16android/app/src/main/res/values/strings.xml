@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PhotosAndroid16</string>
+    <string name="enterAlbumHint">Create New Album</string>
+    <string name="CreateAlbum">Create Album</string>
+    <string name="AddPhoto">Add Photo</string>
+    <string name="SlideShow">Slide Show</string>
+    <string name="delete">Delete Album</string>
+    <string name="rename">Rename Album</string>
+    <string name="albumName">Album Name</string>
+    <string name="photoName">Photo Name</string>
+    <string name="deletePhoto">Delete Photo</string>
+    <string name="addTag">Add Tag</string>
+    <string name="deleteTag">Delete Tag</string>
+    <string name="movePhoto">Move Photo</string>
+    <string name="previous"><![CDATA[<<]]></string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="slideShow">Slide Show</string>
+    <string name="search">Search Photos</string>
+    <string name="searchValue">Ex: person=value || person=name AND location=loc</string>
+    <string name="person">Person</string>
+    <string name="location">Location</string>
+    <string name="searchText">Search</string>
+
+</resources>
